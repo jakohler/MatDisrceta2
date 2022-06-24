@@ -1,0 +1,14 @@
+c archivo Reformateado
+c comentarios originales debajo
+c de esta linea
+c  FILE: queen10_10.col
+c  Translated from Stanford GraphBase File: queen10_10.gb
+c  Stanford GraphBase ID: gunion(board(10,10,0,0,-1,0,0),
+c board(10,10,0,0,-2,0,0),0,0)
+p edge 7 6
+e 0 3
+e 0 4
+e 0 5
+e 1 4
+e 2 4
+e 2 5
